@@ -1,7 +1,7 @@
 <h1 align="center">🎵 Dilwale Music Bot 🎵</h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Dilwale Music Logo" width="600" height="150">
+  <img src="[https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg](https://i.pinimg.com/736x/b7/8b/89/b78b89c64f56da640dd3232b0652cf9b.jpg)" alt="Dilwale Music Logo" width="600" height="150">
 </p>
 
 <p align="center">
