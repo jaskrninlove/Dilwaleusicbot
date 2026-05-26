@@ -1,10 +1,6 @@
 <h1 align="center">🎵 Dilwale Music Bot 🎵</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/b7/8b/89/b78b89c64f56da640dd3232b0652cf9b.jpg" alt="Dilwale Music Logo" width="600" height="150">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/github/stars/jaskrninlove/Dilwalemusicbot?style=for-the-badge&color=blue" alt="GitHub stars">
   <img src="https://img.shields.io/github/forks/jaskrninlove/Dilwalemusicbot?style=for-the-badge&color=blue" alt="GitHub forks">
   <img src="https://img.shields.io/github/issues/jaskrninlove/Dilwalemusicbot?style=for-the-badge&color=red" alt="GitHub issues">
